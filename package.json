@@ -1,0 +1,19 @@
+{
+	"name": "zz.ui.mdl.progress",
+	"version": "20160421.0.0",
+	"description": "module zz.ui.mdl.progress for zz project",
+	"author": {
+		"name": "Popkov ALexander",
+		"email": "popkov.aleksander@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.ui.mdl.progress/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alex-popkov/zz.ui.mdl.progress.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
